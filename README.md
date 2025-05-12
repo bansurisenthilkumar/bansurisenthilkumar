@@ -1,10 +1,5 @@
 ## 👋 Hi, I'm Bansuri S! 👩‍💻
 
-<!--
-**bansurisenthilkumar/bansurisenthilkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🚀 About Me
 🔭 I’m currently working on improving my React.js skills, building Machine Learning models, and working on various UX Design projects.
 🌱 I’m learning how to implement Data Analytics and AI models in my projects and how to use Cloud Technologies for scalable solutions.
