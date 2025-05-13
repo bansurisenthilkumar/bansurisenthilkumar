@@ -4,7 +4,7 @@
 🟨 🚀 Passionate about building scalable apps, intuitive UX, and smart AI solutions<br>
 🟩 🤝 Open to collaborations in tech, design, and data-driven projects<br>
 🟪 📫 Reach me at: bansurisenthilkumar@gmail.com | 🔗 LinkedIn<br>
-🟧 🌌 Fun fact: Fascinated by astrophysics, I love blending creativity with technology<br>
+🟧 🌌 Fun fact: Fascinated by astrophysics, I love blending creativity with technology and obsessed with cats<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bansuri-senthilkumarn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bansurisenthilkumar@gmail.com) 
 
